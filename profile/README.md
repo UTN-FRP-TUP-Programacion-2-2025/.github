@@ -19,7 +19,7 @@ a medida que se acerca a una solución y empieza a ver —y entender— mejor lo
 </em></p>
 
 ## Enlaces
-[Documentos y guías de ejercicios](https://docs.google.com/document/d/1qGPbiIwmllmy1YvXGmMJ7zKOhPzcun4a4mG60zK98cE/preview?tab=t.0)
+[Documentos y guías de ejercicios](https://docs.google.com/document/d/1YewLvEFKFkjCESXEFruTf_HQvazFv_wKD2y6wwtjCfo/preview)
 
 ---
 
