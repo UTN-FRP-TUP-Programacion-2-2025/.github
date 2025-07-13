@@ -1,4 +1,4 @@
-# 👋 UTN - FRP - TUP - Programación 1 - 2025
+# 👋 UTN - FRP - TUP - Programación 2 - 2025
 
 --
 
