@@ -5,7 +5,7 @@
 ## Programación II - 2025- Documentos, ejemplos y guía de ejercicios 
 
 <p align="center">
-<img src="la_ratona_clasificando_ensamblando_y_supervisando.png" alt="La ratona clasificando, ensamblando y supervisando" width="400"/>
+<img src="la_ratona_clasificando_ensamblando_y_supervisando.png?1" alt="La ratona clasificando, ensamblando y supervisando" width="400"/>
 </p>
 
 <p align="center"><em>
