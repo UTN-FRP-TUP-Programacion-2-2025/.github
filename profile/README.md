@@ -13,7 +13,6 @@
 </em></p> 
 
 <p align="center"><em>
-Representación artística que representa sobre las fases que atraviesa el programador en el proceso de entendimiento del problema.<br/>
 Desde las definiciones clasificamos las piezas, a partir de las definiciones tomamos las piezas y ensamblamos <br/>
 nuevos objetos, y con la definiciones controlamos que la interacción entre los objetos sean las esperar por sus propias definiciones.
 </em></p>
