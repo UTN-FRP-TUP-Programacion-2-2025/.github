@@ -9,13 +9,13 @@
 </p>
 
 <p align="center"><em>
-  “La ratona y su casa”. Ilustración artística de <a href="https://github.com/MaximaCaceres">Máxima Caceres Alba</a>.
+  “Las ratonas clasifican, ensamblan y controlando”. Ilustración artística de <a href="https://github.com/MaximaCaceres">Máxima Caceres Alba</a>.
 </em></p> 
 
 <p align="center"><em>
-Representación artística sobre las fases que atraviesa el programador en el proceso de entendimiento del problema.<br/>
-Desde la lectura del enunciado, su análisis y el planteo de una estrategia a seguir ... ,<br/>
-a medida que se acerca a una solución y empieza a ver —y entender— mejor los detalles del problema.
+Representación artística que representa sobre las fases que atraviesa el programador en el proceso de entendimiento del problema.<br/>
+Desde las definiciones clasificamos las piezas, a partir de las definiciones tomamos las piezas y ensamblamos <br/>
+nuevos objetos, y con la definiciones controlamos que la interacción entre los objetos sean las esperar por sus propias definiciones.
 </em></p>
 
 ## Enlaces
