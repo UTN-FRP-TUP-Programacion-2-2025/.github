@@ -9,7 +9,7 @@
 </p>
 
 <p align="center"><em>
-  “Las ratonas clasifican, ensamblan y controlando”. Ilustración artística de <a href="https://github.com/MaximaCaceres">Máxima Caceres Alba</a>.
+  “Las ratonas clasifican, ensamblan y controlan”. Ilustración artística de <a href="https://github.com/MaximaCaceres">Máxima Caceres Alba</a>.
 </em></p> 
 
 <p align="center"><em>
