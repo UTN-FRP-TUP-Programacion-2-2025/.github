@@ -5,16 +5,18 @@
 ## Programación II - 2025- Documentos, ejemplos y guía de ejercicios 
 
 <p align="center">
-<img src="la_ratona_clasificando_ensamblando_y_supervisando.png?1" alt="La ratona clasificando, ensamblando y supervisando" width="400"/>
+<img src="la_ratona_clasificando_ensamblando_y_supervisando.png?1" alt="La ratona y su sistema de datos orientados a objetos" width="400"/>
 </p>
 
 <p align="center"><em>
-  “Las ratonas clasifican, ensamblan y controlan”. Ilustración artística de <a href="https://github.com/MaximaCaceres">Máxima Caceres Alba</a>.
+“La ratona y su sistema de datos orientados a objetos” <br/> 
+Ilustración artística de  <a href="https://github.com/MaximaCaceres">Máxima Caceres Alba</a>
 </em></p> 
 
 <p align="center"><em>
-Desde las definiciones clasificamos las piezas, a partir de las definiciones tomamos las piezas y ensamblamos <br/>
-nuevos objetos, y con la definiciones controlamos que la interacción entre los objetos sean las esperar por sus propias definiciones.
+La ratona a partir de las definiciones clasifica las piezas, a partir de las definiciones la ratona toma las piezas <br/>
+y construye nuevos objetos, y la ratona con la definiciones controla que la interacción <br/>
+entre los objetos sean las de esperar por sus propias definiciones. 
 </em></p>
 
 ## Enlaces
