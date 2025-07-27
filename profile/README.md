@@ -1,9 +1,12 @@
 # 👋 UTN - FRP - TUP - Programación 2 - 2025
 
---
+---
 
-## Programación II - 2025- Documentos, ejemplos y guía de ejercicios 
-
+<div align="center">
+<h2> Programación II 2025 <br/>  Práctica <br/>Documentos, ejemplos y guía de ejercicios 
+</h2>
+</div>
+    
 <p align="center">
 <img src="la_ratona_clasificando_ensamblando_y_supervisando.png?1" alt="La ratona y su sistema de datos orientados a objetos" width="400"/>
 </p>
